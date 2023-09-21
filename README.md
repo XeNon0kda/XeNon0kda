@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XeNon0kda
+- 👀 I’m interested in learning programming, I like to read about innovations in the field of information technology. I study C++ and python.
+- 🌱 I am currently studying algorithms and data structures. I study algorithm trees
+- 💞️ I want to cooperate with Yandex, an IT giant in my country
+- 📫 How to reach me - andre19082004@ya.ru
